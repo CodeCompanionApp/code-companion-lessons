@@ -1,0 +1,12 @@
+{
+  "id": "1",
+  "version": "1.0.0",
+  "name": "Welcome to Code Companion",
+  "workspaceName": "welcome-to-code-companion",
+  "description": "Learn the basics of how Code Companion works in this short guide.",
+  "time": "20 minutes",
+  "author": "Hamish Macpherson",
+  "authorURL": "http://hami.sh/",
+  "main": "lesson.md",
+  "dev": true
+}
